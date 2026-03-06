@@ -1,12 +1,12 @@
 import { motion, AnimatePresence } from 'framer-motion';
-import { Github, Instagram, Linkedin, Code2, Sparkles, Heart, Rocket, Coffee, X } from 'lucide-react';
+import { Instagram, Linkedin, Code2, Sparkles, Heart, Rocket, Coffee, X } from 'lucide-react';
 import { Badge } from '@/components/ui/badge';
 import creatorPhoto from '@/assets/creator-photo.jpg';
 
 const techStack = ['React', 'JavaScript', 'Tailwind CSS', 'Framer Motion', 'MongoDB',];
 
 const socialLinks = [
-  { icon: Github, href: 'https://github.com/dhananjaykale03', label: 'GitHub' },
+  
   { icon: Instagram, href: 'https://www.instagram.com/dhananjaykale__143?igsh=MWV6dTVkdHZ3ZnF5', label: 'Instagram' },
   { icon: Linkedin, href: 'https://www.linkedin.com/in/dhananjaykale-?utm_source=share_via&utm_content=profile&utm_medium=member_android', label: 'LinkedIn' },
 ];
