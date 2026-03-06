@@ -1,9 +1,8 @@
 import { motion } from 'framer-motion';
-import { Github, Instagram, Linkedin } from 'lucide-react';
+import { Instagram, Linkedin } from 'lucide-react';
 
 const socialLinks = [
   { icon: Instagram, href: 'https://www.instagram.com/dhananjaykale__143?igsh=MWV6dTVkdHZ3ZnF5', label: 'Instagram' },
-  { icon: Github, href: 'https://github.com/dhananjaykale03', label: 'GitHub' },
   { icon: Linkedin, href: 'https://www.linkedin.com/in/dhananjaykale-?utm_source=share_via&utm_content=profile&utm_medium=member_android', label: 'LinkedIn' },
 ];
 
